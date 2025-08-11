@@ -1,15 +1,5 @@
 # 📘 Statistics Advanced - 2 | Assignment
 
-**Instructions:**  
-- Carefully read each question before attempting it.  
-- Use **Google Docs**, **Microsoft Word**, or a similar tool to type each question along with its answer.  
-- Save the completed document as a **PDF**.  
-- Upload the PDF to the **LMS**.  
-- **Do not** zip or archive the file before uploading.  
-- Each question carries **20 marks**.  
-
-**Total Marks:** 100  
-
 ---
 
 ## **Question 1**
